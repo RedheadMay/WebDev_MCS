@@ -1,0 +1,10 @@
+.header {
+	width: 500px;
+	height: 200px;
+	background-color: navy;
+	background-image: url(../img/back.jpg);
+	background-size: 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
